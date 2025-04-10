@@ -5,8 +5,8 @@ Anghelic Peñaranda
 Stefany Murillo  
 Valeria Quitiaquez Pasuy  
 
-*Asignatura:* Fundamentos de Programación  
-*Docente:* Juan Pablo Salamanca  
+*Asignatura:* Ingeniería de software  
+*Docente:* Jhon Haide Cano Beltran  
 
 ## Descripción General
 
