@@ -1,0 +1,22 @@
+# Ignorar archivos de sistema y configuración
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Carpetas de configuración de editores/IDEs
+.vscode/
+.idea/
+
+# Compilados y binarios
+*.class
+*.jar
+*.exe
+
+# Carpetas específicas de tu proyecto (ajústalo a tus rutas reales si es necesario)
+build/
+out/
+
+# Ignorar todo lo que no sea parte del proyecto
+../../../../../*
+!/
